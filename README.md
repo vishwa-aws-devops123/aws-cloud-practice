@@ -13,3 +13,18 @@ This repository contains AWS cloud concepts, services, and practical notes used 
 ## Purpose
 
 This repository is part of my Linux and AWS Cloud learning journey and demonstrates foundational cloud operations knowledge.
+
+## Repository Structure
+
+- ec2-basics.md
+- security-groups.md
+- iam-basics.md
+- s3-basics.md
+
+## Skills Demonstrated
+
+- AWS EC2
+- Security Groups
+- IAM
+- Amazon S3
+- Cloud Fundamentals
