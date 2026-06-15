@@ -26,5 +26,10 @@ This repository is part of my Linux and AWS Cloud learning journey and demonstra
 - AWS EC2
 - Security Groups
 - IAM
-- Amazon S3
+
+## Additional Resources
+
+- interview-questions.md
+
+This file contains AWS interview questions and answers covering EC2, IAM, S3, Security Groups, VPC, and related cloud concepts.- Amazon S3
 - Cloud Fundamentals
